@@ -1,6 +1,6 @@
 # babel-plugin-safe-math
 
-A little babel plugin made for my friend [@zh99998](https://github.com/zh99998) who always complains about the wake type system of JavaScript causing mystery bugs in her projects.
+A little babel plugin made for my friend [@zh99998](https://github.com/zh99998) who always complains about the weak type system of JavaScript causing mystery bugs in her projects.
 
 ## before
 
