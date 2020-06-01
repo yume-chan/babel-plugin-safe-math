@@ -15,7 +15,7 @@
     "@babel/types": "7.10.2",
     "@types/babel-traverse": "6.25.5",
     "@types/babel-types": "7.0.7",
-    "@types/node": "12.12.42",
+    "@types/node": "12.12.43",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "26.0.1",
     "jest": "26.0.1"
