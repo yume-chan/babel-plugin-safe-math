@@ -14,7 +14,7 @@
     "@babel/preset-env": "7.11.0",
     "@babel/types": "7.11.0",
     "@types/babel-traverse": "6.25.5",
-    "@types/babel-types": "7.0.8",
+    "@types/babel-types": "7.0.9",
     "@types/node": "12.12.47",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "26.3.0",
