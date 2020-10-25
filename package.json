@@ -9,10 +9,10 @@
   "author": "Simon Chan <cnsimonchan@live.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.11.0",
+    "@babel/core": "7.12.3",
     "@babel/helper-plugin-test-runner": "7.10.4",
-    "@babel/preset-env": "7.11.0",
-    "@babel/types": "7.11.0",
+    "@babel/preset-env": "7.12.1",
+    "@babel/types": "7.12.1",
     "@types/babel-traverse": "6.25.5",
     "@types/babel-types": "7.0.8",
     "@types/node": "12.12.47",
